@@ -23,4 +23,4 @@ Além da propriedade ":hover" (Ex: button:hover) além da aplicação de backgro
 
 ## Referência
 
- - [Desafio 01](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1&t=NwnyI0wjVV6i3JVe-0)
+ - [Link do projeto Figma](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1&t=NwnyI0wjVV6i3JVe-0)
