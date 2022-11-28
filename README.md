@@ -12,7 +12,7 @@ Além da propriedade ":hover" (Ex: button:hover) além da aplicação de backgro
 
 
 ### Você pode comparar as alterações do commit aqui
-- [Acesso o commit das alterções] (https://github.com/abnersiqueira/rocketseat_desafio02/commit/42255bfe96fbab92174c694dcf049a33d1aa20de)
+- [Acesso o commit das alterções](https://github.com/abnersiqueira/rocketseat_desafio02/commit/42255bfe96fbab92174c694dcf049a33d1aa20de)
 
 ## Versão antes
 
